@@ -23,7 +23,7 @@ that leaves people worse off.
 I'm building a **TECHMANIA 2 theme for TECHMANIA**. It should be out soon™,
 assuming I don't wander into three more side projects first.
 
-Listening habits: mostly Vocaloid. I also upload music stuff on
+Listening habits: mostly Vocaloid. I also upload music stuff on and create random rhythm charts
 [ryuki-p](https://www.youtube.com/@ryuki-p).
 
 ## stuff i've made
