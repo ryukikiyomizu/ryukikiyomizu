@@ -23,6 +23,7 @@ Sometimes Kotlin sneaks in.
 | --- | --- |
 | [Mister](https://github.com/ryukikiyomizu/Mister) | A private-first Windows utility for working with compatible local archives. |
 | [TECHMANIANFCHook](https://github.com/ryukikiyomizu/TECHMANIANFCHook) | An AIC Pico CardIO bridge for arcade-style NFC login in TECHMANIA. |
+| [DJMAX Studio](https://github.com/ryukikiyomizu/DJMax-Studio) | A modernized fork of [HSReina's DJMax Editor](https://github.com/hsreina/DJMax-Editor). |
 
 ## tools i keep reaching for
 
