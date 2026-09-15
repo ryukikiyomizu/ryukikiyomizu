@@ -12,11 +12,11 @@
 </div>
 
 I make websites, desktop utilities, hardware bridges, and whatever else catches
-my attention at 2 AM. Rhythm games are basically my only genre. LMAO
+my attention at 2 AM. Rhythm games are basically my only genre hehe lol
 
 I usually vibe-code, then read through what I've made so debugging hurts less
-and I understand a little more next time. I like fixing stuff; I don't like tech
-that leaves people worse off.
+and I understand a little more next time (or just ignore and hope for the best)
+I like fixing stuff; I don't like tech that leaves people worse off.
 
 ## current side quest
 
