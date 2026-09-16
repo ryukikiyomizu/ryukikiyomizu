@@ -4,7 +4,6 @@
 
 **furry hobbyist, student, and professionally unemployed side-project creature.**
 
-[![Website](https://shieldcn.dev/badge/fursekai.app-visit-8B5CF6.svg?variant=secondary&logo=firefoxbrowser)](https://fursekai.app)
 [![Pronouns](https://shieldcn.dev/badge/pronouns-he%2Fthey-2563EB.svg?variant=outline&logo=false)](https://pronouns.org/)
 [![Timezone](https://shieldcn.dev/badge/Manila-UTC%2B8-E11D48.svg?variant=outline&logo=false)](https://time.is/Manila)
 [![Buy me a coffee](https://shieldcn.dev/badge/Buy%20me%20a-coffee-FFDD00.svg?variant=default&logo=buymeacoffee)](https://buymeacoffee.com/ryukikiyomizu)
