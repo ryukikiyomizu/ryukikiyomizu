@@ -19,7 +19,7 @@ I like fixing stuff; I don't like tech that leaves people worse off.
 
 ## current side quest
 
-I'm building a **TECHMANIA 2 theme for TECHMANIA**. It should be out soon™,
+I'm building multiple projects atm and releasing more projects. It should be out soon™,
 assuming I don't wander into three more side projects first.
 
 Listening habits: mostly Vocaloid. I also upload music stuff on and create random rhythm charts
